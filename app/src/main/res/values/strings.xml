@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EstudoLayout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="menus">
+        <item>Bebidas</item>
+        <item>Comida</item>
+        <item>Mercearia</item>
+    </string-array>
+
+    <string-array name="favss">
+        <item>Latte</item>
+        <item>Cappuccino</item>
+        <item>Filter</item>
+    </string-array>
+</resources>
